@@ -137,5 +137,8 @@
   },
   "resolutions": {
     "react-is": "npm:react-is"
+  },
+  "dependencies": {
+    "license-checker": "^25.0.1"
   }
 }
